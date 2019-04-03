@@ -9,5 +9,12 @@ public class FirstClass {
 
     }
 
+    public void test1(){
+        int i = 5;
+        i+= 10;
+
+
+    }
+
 
 }
